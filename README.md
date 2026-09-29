@@ -27,6 +27,7 @@ Representa la **reducción de incertidumbre** lograda al clasificar por el atrib
 `IG(S, A) = H(S) - H_ponderada(S, A)`
 
 📚 Casos de Estudio Incluidos
+
 📄 Caso 1: Evaluación de Métricas de Impureza (Métricas para construir árboles de decisión.pdf)
 Problema: Evaluar si la variable Edad es adecuada para predecir la compra de un producto en una muestra de 10 clientes (5 Compran / 5 No Compran).
 
